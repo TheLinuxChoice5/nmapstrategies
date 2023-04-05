@@ -1,0 +1,2 @@
+# nmapstrategies
+Automated nmap script 
