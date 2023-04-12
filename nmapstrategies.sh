@@ -1,4 +1,7 @@
-#!/bin/bash
+# !/bin/bash
+# Author: TheLinuxChoice5
+# Github: github.com/TheLinuxChoice5/netscan
+
 if [[ "$(id -u)" -ne 0 ]]; then
    printf ".:: Please, run this program as root!\n"
    exit 1
